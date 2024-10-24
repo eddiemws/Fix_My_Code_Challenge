@@ -23,7 +23,7 @@ class User():
         """
         self.id = str(uuid.uuid4())
 
-
+    @property
      def password(self):
         """
         Password getter
