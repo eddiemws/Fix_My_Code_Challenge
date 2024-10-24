@@ -2,7 +2,8 @@
 """
  User Model
 """
-import hashlib
+
+import uuid
 
 
 
