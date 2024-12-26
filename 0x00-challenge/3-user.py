@@ -1,4 +1,6 @@
-#!/usr/bin/python3
+"""
+ User Model
+"""#!/usr/bin/python3
 
 import hashlib
 import uuid
